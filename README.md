@@ -1,4 +1,4 @@
-# Hello there 👋
+## Hello there 👋
 
 - 👨🏼‍🎓 I'm a self taught front-end developer from Portugal. 
 - ✨ I've made multiple front-end projects with React, JavaScript, TypeScript and Tailwind CSS.
